@@ -18,9 +18,9 @@ include('class-master/config.php');
    </head>
     <body>
 
+<h1>Demo</h1>
 
 
-    
 
       <nav>
  <div class="nav nav-tabs" id="nav-tab" role="tablist">
